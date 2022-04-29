@@ -6,13 +6,17 @@ import "./styles.css";
 
 const Home = () => {
   return (
-    <div>
-      {/* Search Bar */}
+    <div className='home'>
       <SearchBar />
-      {/* Side panels */}
-      <FilterPanel />
-      {/* List and Empty View */}
-      <List />
+
+      <div className='home_panelList-wrap'>
+        <div className='home_panel-wrap'>
+          <FilterPanel />
+        </div>
+        <div className='home_list-wrap'>
+          <List />
+        </div>
+      </div>
     </div>
   );
 };
