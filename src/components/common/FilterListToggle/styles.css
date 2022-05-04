@@ -1,0 +1,27 @@
+.root {
+  width: 100%;
+  justify-content: space-between;
+}
+
+.toggle {
+  font-family: "Raleway", sans-serif;
+  font-size: 0.8rem;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 10px;
+}
+
+.toggle.MuiToggleButtonGroup-groupedHorizontal:not(:last-child) {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.toggle.Mui-selected {
+  border-radius: 10px;
+  background: #000;
+  color: #fff;
+}
+
+.toggle.MuiToggleButton-root .toggle.MuiToggleButton-root:hover {
+  background: #000;
+  color: #fff;
+}
