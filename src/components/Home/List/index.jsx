@@ -1,8 +1,15 @@
 import React from "react";
+import ListItem from "../List/ListItem";
 import "./styles.css";
 
-const List = () => {
-  return <div>List</div>;
+const List = ({ list }) => {
+  return (
+    <div className='list-wrap'>
+      {list.map((item) => (
+        <ListItem key={item.id} item={item} />
+      ))}
+    </div>
+  );
 };
 
 export default List;

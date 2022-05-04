@@ -71,7 +71,7 @@ export const dataList = [
     cuisine: "chinese",
     rating: 3,
     price: 2000,
-    coverSrc: "/images/places/china.jpg",
+    coverSrc: "/images/places/china.jpeg",
   },
   {
     id: 4,
@@ -82,7 +82,7 @@ export const dataList = [
     cuisine: "american",
     rating: 1,
     price: 1800,
-    coverSrc: "/images/places/sea.jpg",
+    coverSrc: "/images/places/sea.jpeg",
   },
   {
     id: 5,
@@ -93,7 +93,7 @@ export const dataList = [
     cuisine: "italian",
     rating: 5,
     price: 2000,
-    coverSrc: "/images/places/italiian.jpg",
+    coverSrc: "/images/places/italian.webp",
   },
   {
     id: 6,
@@ -104,7 +104,7 @@ export const dataList = [
     cuisine: "chinese",
     rating: 5,
     price: 3500,
-    coverSrc: "/images/places/fookyew2.jpg",
+    coverSrc: "/images/places/fookyew2.jpeg",
   },
   {
     id: 7,
@@ -115,7 +115,7 @@ export const dataList = [
     cuisine: "american",
     rating: 2,
     price: 2200,
-    coverSrc: "/images/dishes/nacho-burger.jpg",
+    coverSrc: "/images/dishes/nacho-burger.jpeg",
   },
   {
     id: 8,
@@ -126,7 +126,7 @@ export const dataList = [
     cuisine: "italian",
     rating: 1,
     price: 1900,
-    coverSrc: "/images/dishes/Mushroom-Risotto-Recipe-1-1200.jpg",
+    coverSrc: "/images/dishes/Mushroom-Risotto-Recipe-1-1200.jpeg",
   },
   {
     id: 9,
@@ -137,7 +137,7 @@ export const dataList = [
     cuisine: "chinese",
     rating: 4,
     price: 2750,
-    coverSrc: "/images/dishes/shiitake-salmon-fried-rice-0218-103230720.jpg",
+    coverSrc: "/images/dishes/shiitake-salmon-fried-rice-0218-103230720.jpeg",
   },
   {
     id: 10,
@@ -148,7 +148,7 @@ export const dataList = [
     cuisine: "american",
     rating: 2,
     price: 4350,
-    coverSrc: "/images/dishes/pesto-chicken.jpg",
+    coverSrc: "/images/dishes/pesto-chicken.jpeg",
   },
   {
     id: 11,
@@ -159,7 +159,7 @@ export const dataList = [
     cuisine: "italian",
     rating: 3,
     price: 3300,
-    coverSrc: "/images/dishes/as-tomato-bruschetta-articleLarge.jpg",
+    coverSrc: "/images/dishes/as-tomato-bruschetta-articleLarge.jpeg",
   },
   {
     id: 12,
@@ -170,6 +170,6 @@ export const dataList = [
     cuisine: "chinese",
     rating: 2,
     price: 4100,
-    coverSrc: "/images/dishes/dimsums.jpg",
+    coverSrc: "/images/dishes/dimsums.jpeg",
   },
 ];
